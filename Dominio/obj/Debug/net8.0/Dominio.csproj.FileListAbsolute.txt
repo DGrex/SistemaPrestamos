@@ -9,3 +9,4 @@ C:\Users\ASUS\Documents\Visual Studio 2022\SistemaPrestamos\Dominio\obj\Debug\ne
 C:\Users\ASUS\Documents\Visual Studio 2022\SistemaPrestamos\Dominio\obj\Debug\net8.0\refint\Dominio.dll
 C:\Users\ASUS\Documents\Visual Studio 2022\SistemaPrestamos\Dominio\obj\Debug\net8.0\Dominio.pdb
 C:\Users\ASUS\Documents\Visual Studio 2022\SistemaPrestamos\Dominio\obj\Debug\net8.0\ref\Dominio.dll
+C:\Users\ASUS\Documents\Visual Studio 2022\SistemaPrestamos\Dominio\obj\Debug\net8.0\Dominio.sourcelink.json

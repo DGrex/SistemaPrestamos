@@ -13,3 +13,4 @@ C:\Users\ASUS\Documents\Visual Studio 2022\SistemaPrestamos\Aplicacion\obj\Debug
 C:\Users\ASUS\Documents\Visual Studio 2022\SistemaPrestamos\Aplicacion\obj\Debug\net8.0\refint\Aplicacion.dll
 C:\Users\ASUS\Documents\Visual Studio 2022\SistemaPrestamos\Aplicacion\obj\Debug\net8.0\Aplicacion.pdb
 C:\Users\ASUS\Documents\Visual Studio 2022\SistemaPrestamos\Aplicacion\obj\Debug\net8.0\ref\Aplicacion.dll
+C:\Users\ASUS\Documents\Visual Studio 2022\SistemaPrestamos\Aplicacion\obj\Debug\net8.0\Aplicacion.sourcelink.json

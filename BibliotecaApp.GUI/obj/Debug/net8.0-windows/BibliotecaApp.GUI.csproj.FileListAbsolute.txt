@@ -28,3 +28,4 @@ C:\Users\ASUS\Documents\Visual Studio 2022\SistemaPrestamos\BibliotecaApp.GUI\ob
 C:\Users\ASUS\Documents\Visual Studio 2022\SistemaPrestamos\BibliotecaApp.GUI\obj\Debug\net8.0-windows\BibliotecaApp.GUI.pdb
 C:\Users\ASUS\Documents\Visual Studio 2022\SistemaPrestamos\BibliotecaApp.GUI\obj\Debug\net8.0-windows\BibliotecaApp.GUI.genruntimeconfig.cache
 C:\Users\ASUS\Documents\Visual Studio 2022\SistemaPrestamos\BibliotecaApp.GUI\obj\Debug\net8.0-windows\ref\BibliotecaApp.GUI.dll
+C:\Users\ASUS\Documents\Visual Studio 2022\SistemaPrestamos\BibliotecaApp.GUI\obj\Debug\net8.0-windows\BibliotecaApp.GUI.sourcelink.json
